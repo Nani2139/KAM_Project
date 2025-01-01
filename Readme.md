@@ -26,7 +26,7 @@ The **Restaurant Lead Management System** is designed to help Key Account Manage
 ### Backend Setup
 1. Clone the repository:
     
-    git clone <repository_url>
+    git clone (https://github.com/Nani2139/KAM_Project)
 
 2. Navigate to the backend folder:
    
